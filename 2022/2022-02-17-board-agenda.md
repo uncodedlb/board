@@ -1,22 +1,29 @@
 ---
 title: Uncoded Board Meeting Agenda
-date: [YYYY-MM-DD]
-location: [location]
+date: [2022-02-17]
+location: [jitsi]
 draft: true
 ---
 # Welcome / Housekeeping
 
 ## Call to Order
 
-**Reporting**: Chair
+**Reporting**: Art
+
+7:42 PM
 
 ## Attendance / Introductions
 
-**Reporting**: Chair
+[x]*denotes member
+
+[x]Kennedy
+[x]Arthur
+[x]Andrew
+[]Trish
 
 ## Meeting Minutes
 
-**Reporting**: Chair
+Review last minutes.
 
 ## Agenda Review
 
@@ -25,11 +32,16 @@ draft: true
 # Standing Topics / Old Business
  
 - Should quarterly meetings be the way forward?  
-    A. More time to focus on goals.  
-    B. Might be easier to get sidetracked.  
+    A. More time to focus on goals.  (Annual Requirement)
+    B. Might be easier to get sidetracked. (Describe ourselves, create visibility).
 - Should there be planned hacknights or should hacknights be planned events?  
     A. Bringing back demostrations might accomplish this.  
 - Would an "action item" for the whole board be more conducive to goals?  
+    A. Year at a glance
+    B. Finding our purpose
+
+    Suggestion (Trish) Cal State Institute of Innovation
+    Multinational at the end of August
 
 > Layout a way to get things done in a committee  
 - Where is the paperwork that Steve filed away?  
