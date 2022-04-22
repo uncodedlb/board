@@ -2,7 +2,7 @@
 
 **7:07 PM**
 
-+ Kenedy
++ Kennedy
 + Steve
 + Micah
 + Arthur
