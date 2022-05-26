@@ -48,5 +48,5 @@ $1862
 
 ## Next Meeting
 
-May 19th, 2022
+May 26th, 2022
 
