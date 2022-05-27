@@ -1,6 +1,11 @@
 # Board
 
-**7:00 PM**
++ Micah
++ Kennedy
++ Arthur
++ Steve
+
+**7:15 PM**
 
 ## Financial
 
@@ -14,31 +19,35 @@ $1862
 ## To Do
 
 + SCaLE
-  - Finaize Sticker Design (Art)
-  - Display Projects (all)
+  - Finaize Sticker Design (Art) - **DONE**
+  - Display Projects (all) *
     + Diagnostic tools
     + Light weight OS
     + Old hard for cheap and close
-    + TRW Swapmeet
+    + TRW Swapmeet (June 25th) *
   - Ask for Ethernet (Art)
 + Library Foundation
   - Talk to Library about October (Art)
-+ Clean up Website (Art)
-+ Make list for social media (Art Micah)
++ Clean up Website (Art) - **DONE**
++ Make list for social media (Art Micah Kennedy)
     + Meeting Micah and Arthur
   - Twtter
   - Instagram
   - Youtube?
 
-## New Business
+**Newer Business**
 
-+ Get Mail at Ironfire
++ Add Steve Moore
++ Change Kennedy to K
++ Get Mail at Ironfire (In Progress)
 + Possible new mailing address
   - Non profit home address?
-+ PO box dicount for non profit?
++ PO box dicount for non profit? (Steve?)
 + Lock Picking Workshop with Asa
 
-**7:40 PM**
+## New Business
+
+**7:32 PM**
 
 ## Next Meeting
 
